@@ -3,6 +3,7 @@
 
 *{
     font-family: 'Roboto', sans-serif;
+    background-color: #eef8fe;
 }
 
 .flex-container {
@@ -20,4 +21,11 @@
 }
 #cart{
     float:right;
+}
+#card{
+    float: right;
+}
+#body1{
+    /* display: flex;
+    padding-left: 25px; */
 }
