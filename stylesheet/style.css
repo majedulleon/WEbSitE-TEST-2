@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
 
-*{
+* {
     font-family: 'Roboto', sans-serif;
     background-color: #eef8fe;
 }
@@ -19,13 +19,17 @@
     flex-basis: 500px;
     font-size: 25px;
 }
-#cart{
-    float:right;
-}
-#card{
+
+#cart {
     float: right;
 }
-#body1{
+
+#card {
+    float: right;
+}
+
+#body1 {
+    width: 60%;
     /* display: flex;
     padding-left: 25px; */
 }
