@@ -144,8 +144,6 @@
     height: 160px;
     left: 140px;
     top: 97px;
-
-    font-family: 'Bai Jamjuree';
     font-style: normal;
     font-weight: 700;
     font-size: 80px;
@@ -181,5 +179,242 @@
     height: 96px;
     left: 984px;
     top: 411px;
+    background-color: #4aafe9;
 
+}
+
+.b1 {
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    left: 1161px;
+    top: 275px;
+
+    background: #F9FDFF;
+    box-shadow: 0px 12px 20px rgba(216, 166, 20, 0.31);
+    border-radius: 20px;
+}
+
+.b2 {
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    left: 1244px;
+    top: 275px;
+
+    background: #F9FDFF;
+    box-shadow: 0px 12px 20px rgba(216, 166, 20, 0.31);
+    border-radius: 20px;
+}
+
+
+
+.b3 {
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    left: 1244px;
+    top: 350px;
+
+    background: #fefeff;
+    box-shadow: 0px 12px 20px rgba(216, 166, 20, 0.31);
+    border-radius: 20px;
+}
+
+.b4 {
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    left: 1161px;
+    top: 425px;
+
+    background: #f6f6f8;
+    box-shadow: 0px 12px 20px rgba(216, 166, 20, 0.31);
+    border-radius: 20px;
+
+}
+
+.b5 {
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    left: 1161px;
+    top: 350px;
+
+    background: #F9FDFF;
+    box-shadow: 0px 12px 20px rgba(216, 166, 20, 0.31);
+    border-radius: 20px;
+}
+
+.b6 {
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    left: 1244px;
+    top: 425px;
+
+    background: #F9FDFF;
+    box-shadow: 0px 12px 20px rgba(216, 166, 20, 0.31);
+    border-radius: 20px;
+}
+
+.fire {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 208px;
+    top: 674px;
+
+    filter: drop-shadow(0px 0px 25px rgba(237, 94, 22, 0.35));
+}
+
+.fire1 {
+    position: absolute;
+    width: 221px;
+    height: 84px;
+    left: 140px;
+    top: 669px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 42px;
+
+    color: #222223;
+
+}
+
+.fire2 {
+    position: absolute;
+    width: 233px;
+    height: 52px;
+    left: 140px;
+    top: 790px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+
+    letter-spacing: 0.01em;
+
+    color: #5F5F64;
+
+}
+
+.fire3 {
+    position: absolute;
+    width: 147px;
+    height: 28px;
+    left: 532px;
+    top: 738px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 28px;
+
+    letter-spacing: 0.01em;
+
+    color: #17181A;
+}
+
+.money {
+    position: absolute;
+    width: 32px;
+    height: 35px;
+    left: 532px;
+    top: 690px;
+
+    background: url(.png);
+}
+
+.fire4 {
+    position: absolute;
+    width: 188px;
+    height: 52px;
+    left: 532px;
+    top: 790px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.01em;
+    color: #5F5F64;
+}
+
+.money2 {
+    position: absolute;
+    width: 32px;
+    height: 35px;
+    left: 840px;
+    top: 690px;
+    background: url(.png);
+}
+
+.money3 {
+    position: absolute;
+    width: 32px;
+    height: 35px;
+    left: 1148px;
+    top: 690px;
+    background: url(.png);
+}
+
+.fire3-1 {
+    position: absolute;
+    width: 137px;
+    height: 28px;
+    left: 840px;
+    top: 738px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: 0.01em;
+
+    color: #17181A;
+
+
+}
+
+.fire3-2 {
+    position: absolute;
+    width: 137px;
+    height: 28px;
+    left: 1148px;
+    top: 738px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: 0.01em;
+
+    color: #17181A;
+
+}
+
+.fire4-1 {
+    position: absolute;
+    width: 188px;
+    height: 52px;
+    left: 840px;
+    top: 790px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.01em;
+    color: #5F5F64;
+}
+
+.fire4-2 {
+    position: absolute;
+    width: 188px;
+    height: 52px;
+    left: 1148px;
+    top: 790px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.01em;
+    color: #5F5F64;
 }
